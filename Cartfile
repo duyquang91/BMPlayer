@@ -1,2 +1,2 @@
-github "SnapKit/SnapKit" ~> 4.0.0
+git "https://github.com/duyquang91/SnapKit" "master"
 github "ninjaprox/NVActivityIndicatorView"
